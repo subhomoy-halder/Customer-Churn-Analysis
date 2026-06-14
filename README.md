@@ -11,6 +11,8 @@ This project analyzes customer churn through a business lens, focusing not only 
 Using the IBM Telco Customer Churn Dataset, the analysis was structured around key business questions commonly faced by leadership teams, customer success managers, and revenue stakeholders.
 
 ---
+<img width="1774" height="887" alt="ChatGPT Image Jun 14, 2026, 10_48_54 PM" src="https://github.com/user-attachments/assets/6e60237f-075b-4a46-8b23-86df382f667d" />
+---
 
 ## Business Questions
 
