@@ -12,6 +12,7 @@ Using the IBM Telco Customer Churn Dataset, the analysis was structured around k
 
 ---
 <img width="1999" height="1545" alt="Analysis Report" src="https://github.com/user-attachments/assets/962bf319-f874-499c-9abf-b4859a3fcd0d" />
+
 ---
 
 ## Business Questions
